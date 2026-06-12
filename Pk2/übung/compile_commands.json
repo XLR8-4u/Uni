@@ -1,0 +1,22 @@
+[
+  {
+    "file": "src/main.cpp",
+    "arguments": [
+      "/usr/bin/avr-g++",
+      "-mmcu=atmega328p",
+      "-DF_CPU=16000000UL",
+      "-Os",
+      "-Wall",
+      "-Wextra",
+      "-std=c++11",
+      "-fno-exceptions",
+      "-I/usr/lib/avr/include",
+      "-I.",
+      "-c",
+      "src/main.cpp",
+      "-o",
+      "src/main.o"    ],
+    "directory": "/home/mika/Documents/Uni/Pk2/übung",
+    "output": "bin/calculator"
+  }
+]

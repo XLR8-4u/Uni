@@ -1,0 +1,15 @@
+Ohne Kondensator C
+
+Das Ausgangssignal Ua ist eine pulsierende Gleichspannung. 
+Sowohl die positiven als auch die negativen Halbwellen 
+von Ue werden in positive Halbwellen umgewandelt. 
+Die Spitzenamplitude von Ua ist durch den Spannungsabfall 
+von zwei Dioden geringer als Ue.
+
+Mit Kondesator C
+
+Der Kondesator C glättet die pulsierende Gleichspannung,
+indem er sich bei den Spannungsspitzen auflädt und sich
+langsam über den Wiederstand R entlädt. Das resultirende
+Ausgangssignal Ua ist eine geglättete Gleichspannung mit
+einer geringen ungenauigkeit 

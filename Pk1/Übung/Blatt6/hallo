@@ -1,0 +1,5 @@
+Id 0 Akzeptables Risiko "abc" aus 3/6/2026; Risikowert 28940.00; Rueckstellung 0.00
+Id 3 Akzeptables Risiko "abc" aus 3/6/2026; Risikowert 28940.00; Rueckstellung 0.00
+Id 2 Inakzeptables Risiko "ghi" aus 3/6/2026; Risikowert 145440.00; Rueckstellung 145440.00; Massnahme "neinnein"
+Id 1 Extremes Risiko "def" aus 3/6/2026; Versicherungsbeitrag 99999.00; Maﬂnahme "jajaja"
+Id 4 Extremes Risiko "def" aus 3/6/2026; Versicherungsbeitrag 99999.00; Maﬂnahme "jajaja"

@@ -1,0 +1,5 @@
+/home/mika/Documents/Uni/Pk2/Calculator/CMakeFiles/mein_projekt.dir
+/home/mika/Documents/Uni/Pk2/Calculator/CMakeFiles/edit_cache.dir
+/home/mika/Documents/Uni/Pk2/Calculator/CMakeFiles/rebuild_cache.dir
+/home/mika/Documents/Uni/Pk2/Calculator/CMakeFiles/mein_projekt_autogen_timestamp_deps.dir
+/home/mika/Documents/Uni/Pk2/Calculator/CMakeFiles/mein_projekt_autogen.dir
