@@ -1,5 +1,7 @@
 package com.meinprojekt;
 
+//test
+
 public class AkzeptablesRisiko extends Risiko {
 	AkzeptablesRisiko(String bezeichnung, float eintrittswahrscheinlickeit, float kosten_im_schadensfall) {
 		super(bezeichnung, eintrittswahrscheinlickeit, kosten_im_schadensfall);
